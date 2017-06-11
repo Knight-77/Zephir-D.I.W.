@@ -1,0 +1,19 @@
+You need to copy these files in 1080i folder:
+
+DialogVideoInfo.xml
+Includes_Furniture.xml
+Variables.xml
+
+Unzip the file media.zip and place "media" folder in the root of the skin folder, overwriting the existing files.
+
+With all this you're going to have:
+
+- Atmos and DTS:X recognized and relative flags
+- Metacritic ratings as in the pics in my previous post
+- Rotten Tomatoes ratings as in this post (when they will work again) http://i.imgur.com/53TUEkI.jpg
+
+When RT ratings will be again available I will make some little improvement, now without seeing them it's impossible.
+
+Again my gratitude goes to Hustler1337, jurialmunkey and KODser for the help and/or the base of this mod.
+
+Let's keep it updated and better ! 
